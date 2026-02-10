@@ -1,0 +1,7 @@
+
+path: E:\car_object_detection\artifacts\yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: car

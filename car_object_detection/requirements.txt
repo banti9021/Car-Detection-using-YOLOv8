@@ -1,0 +1,13 @@
+ultralytics
+torch
+pandas
+Pillow
+matplotlib
+ultralytics
+opencv-python
+pandas
+Pillow
+fastapi
+uvicorn
+streamlit
+matplotlib
